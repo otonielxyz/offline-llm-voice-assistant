@@ -1,0 +1,8 @@
+{
+  "picovoice_access_key": "YOUR_PICOVOICE_KEY_HERE",
+  "wake_word_path": "wake_words/hey_sol.ppn",
+  "vosk_model_path": "models/vosk-model-small-en-us-0.15",
+  "speaker_wav": "voice_data/clips/example_voice.wav",
+  "llm_url": "http://127.0.0.1:1234",
+  "llm_model": "mythomax-12-13b"
+}
