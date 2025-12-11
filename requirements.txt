@@ -1,0 +1,10 @@
+numpy
+requests
+sounddevice
+scipy
+torch
+pvporcupine
+pvrecorder
+vosk
+TTS
+pydub
