@@ -1,0 +1,8 @@
+config.json
+credentials.json
+models/
+wake_words/
+voice_data/
+response.wav
+speech.wav
+__pycache__/
